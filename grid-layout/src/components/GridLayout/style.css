@@ -1,0 +1,11 @@
+.grid-layout {
+    border: 1px solid;
+    height: 700px;
+    width: 700px;
+    margin: 50px;
+}
+
+.grid-container {
+    display: flex;
+    flex-direction: row;
+}
